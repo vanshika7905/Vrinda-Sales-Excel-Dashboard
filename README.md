@@ -3,7 +3,7 @@
 📊 Vrinda Store Annual Sales Dashboard (2022)
 📌 Project Overview
 
-This project showcases an interactive Power BI dashboard built to analyze Vrinda Store’s annual sales performance for 2022.
+This project showcases an interactive Excel dashboard built to analyze Vrinda Store’s annual sales performance for 2022.
 The dashboard converts raw sales data into meaningful business insights using dynamic visuals and slicers.
 
 It helps stakeholders understand customer behavior, product performance, regional sales, and channel effectiveness.
@@ -74,9 +74,9 @@ Men vs Women sales contribution
 
 🛠️ Tools & Technologies
 
-Power BI
+Power Query
 
-DAX
+Excel
 
 Data Modeling
 
@@ -100,16 +100,6 @@ States & sales channels
 
 (Dataset used for learning and portfolio purposes)
 
-🚀 Use Case
-
-This dashboard can help:
-
-Business owners optimize inventory planning
-
-Marketing teams target the right customer segment
-
-Management evaluate channel performance
-
-Analysts practice real-world BI reporting
+🚀 Dashboard Preview
 
 <img width="1859" height="891" alt="Screenshot 2025-12-14 184948" src="https://github.com/user-attachments/assets/e0a646f9-82fd-47b9-ae79-535cfa92d922" />
